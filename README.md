@@ -2,6 +2,4 @@
 some modification
 
 
-now updating on update readme branch
-
-update locally
+update made on master on github before rebase.
